@@ -7,7 +7,6 @@ import com.daemitus.deadbolt.Perm;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
-import static org.bukkit.Material.HOPPER;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.block.Sign;
