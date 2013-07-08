@@ -6,7 +6,6 @@ import org.bukkit.block.*;
 import org.bukkit.entity.Player;
 import org.bukkit.material.Attachable;
 import org.bukkit.material.Door;
-import org.bukkit.material.MaterialData;
 import org.bukkit.material.TrapDoor;
 
 public class Deadbolted {
